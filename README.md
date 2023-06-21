@@ -32,9 +32,9 @@ This code implements the Tideman voting algorithm, which is used to determine th
 
 To use the Tideman voting program, follow these steps:
 
-1. **Compile the program:** Compile the code using a C compiler. For example.
+1. **Compile the program:** Compile the code using a C compiler.
 
-2. **Run the program:** Execute the compiled program by running the following command in the terminal:
+2. **Run the program:** Execute the compiled program:
 Replace `[candidate ...]` with the names of the candidates participating in the election. Specify at least two candidates.
 
 3. **Enter the number of voters:** After running the program, it will prompt you to enter the number of voters participating in the election. Type the number and press Enter.
