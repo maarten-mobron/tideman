@@ -47,6 +47,6 @@ By following these steps, you can use the Tideman voting program to calculate th
 
 Note: The program expects input in the terminal, so make sure to run it in a command-line environment.
 
-## GitHub Profile
+## License
 
-- GitHub: [maarten-mobron](https://github.com/maarten-mobron)
+You are free to use it for any purpose.
